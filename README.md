@@ -1,4 +1,4 @@
-# Jeopardy! Practice Game
+# Jeopardy Make your own Practice Game
 
 This app was hacked together over a couple of weekends to help practice for Jeopardy! It reads games from [J! Archive](http://www.j-archive.com/) and displays them via separate interfaces to the host and the contestants. Our typical setup for the practice games was:
 
